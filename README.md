@@ -14,7 +14,7 @@ It reflects my long-term focus on software engineering, self-education, and buil
 Deployed with Vercel.
 
 ```bash
-Coming soon
+https://northstarmse.netlify.app/
 ```
 
 ---
