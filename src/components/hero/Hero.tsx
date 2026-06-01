@@ -36,7 +36,7 @@ export default function Hero() {
             <Button href="/projects">View Projects</Button>
 
             <a
-              href="https://github.com/Manpreet109209"
+              href="https://github.com/Manpreet109209000"
               target="_blank"
               className="github-button"
             >
