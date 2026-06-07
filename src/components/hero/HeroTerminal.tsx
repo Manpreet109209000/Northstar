@@ -1,13 +1,13 @@
 const terminalLines = [
-  "initializing developer...",
+  "Initializing Engineer/Developer...",
   "loading projects...",
   "WanderStay deployed ✔",
   "User Management System deployed ✔",
   "LazyTunes desktop app built ✔",
-  "studying mathematics...",
-  "studying physics...",
+  "Studying PCM + English, CS...",
   "learning React architecture...",
   "learning backend systems...",
+  "Working as a Volunteer Full Stack Developer...",
   "target: Computer Science abroad",
 ];
 
@@ -25,7 +25,7 @@ export default function HeroTerminal() {
           </p>
 
           <p className="terminal-focus-text">
-            Building stronger engineering fundamentals while preparing
+            Building stronger engineering fundamentals through volunteering while preparing
             for NIOS board exams and long-term software engineering
             career goals.
           </p>
