@@ -12,7 +12,7 @@ export default function ExperienceHero() {
 
         <p className="experience-description">
           Most of my experience comes from self-directed work:
-          building software systems, studying independently,
+          building software systems, volunteering, studying independently,
           editing short-form content, and learning how real-world
           projects actually function outside tutorial ecosystems.
           <br />
