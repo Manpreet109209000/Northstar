@@ -22,11 +22,14 @@ export default function ContactAvailability() {
             <br />
             • Full-stack architecture
             <br />
-            • NIOS board preparation
+            • NIOS board preparation(2027)
             <br />
-            • Mathematics & Physics
+            • Mathematics, Chemistry, English, Computer Science & Physics
             <br />
             • Europe study planning
+            <br />
+            <br />
+            • Volunteering For Organizations and Helping people with the skills i have
             <br />
             • Long-term software engineering growth
             <br />
