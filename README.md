@@ -114,7 +114,7 @@ Alongside software development, I’ve also worked on short-form video editing f
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Manpreet109209000/Northstar.git
 ```
 
 Install dependencies:
