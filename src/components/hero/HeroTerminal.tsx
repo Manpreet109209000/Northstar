@@ -1,7 +1,14 @@
 const terminalLines = [
-  "Solving NIOS 12th-grade PYQs daily.",
-  "Working as an Independent Software Developer",
-  "Target: Computer Science abroad",
+  "initializing developer...",
+  "loading projects...",
+  "WanderStay deployed ✔",
+  "User Management System deployed ✔",
+  "LazyTunes desktop app built ✔",
+  "studying mathematics...",
+  "studying physics...",
+  "learning React architecture...",
+  "learning backend systems...",
+  "target: Computer Science abroad",
 ];
 
 export default function HeroTerminal() {
@@ -18,8 +25,9 @@ export default function HeroTerminal() {
           </p>
 
           <p className="terminal-focus-text">
-            Engineering scalable distributed systems and mastering production-grade architectures while preparing 
-            for NIOS (Nov 2027) exams to secure a long-term software career.
+            Building stronger engineering fundamentals while preparing
+            for NIOS board exams and long-term software engineering
+            career goals.
           </p>
         </div>
       </div>
