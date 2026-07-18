@@ -4,13 +4,8 @@ export const aboutCards = [
     dark: false,
 
     content: `
-Currently studying through NIOS with:
+Completed the Entire NIOS (PCM, English, CS), And Solving PYQs daily. One PYQ pattern at a time
 
-• Mathematics
-• Physics
-• Chemistry
-• English
-• Computer Science
 
 Targeting strong board scores while simultaneously building practical engineering skills.
 
@@ -32,6 +27,10 @@ Main technologies:
 • React
 • MongoDB
 • MySQL
+• PostgreSQL
+• Prisma ORM
+• TypeScript
+• Tailwind CSS
 • Electron
 
 I care more about scalable structure and problem-solving than chasing random JavaScript trends named after kitchen appliances.
@@ -67,12 +66,13 @@ Build a strong engineering career abroad while creating a stable life for myself
 Current direction:
 
 🇵🇱 Poland → practical path
-🇩🇪 Germany → long-term possibility
+🇩🇪 India → masters in germany possibility
 
 Until then:
 
-study,
+learn,
 build,
+sleep,
 repeat.
 `,
   },
