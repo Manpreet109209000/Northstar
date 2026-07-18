@@ -7,6 +7,8 @@ export const skills = [
       "Express",
       "REST APIs",
       "Authentication Systems",
+      "MVC Architecture",
+      "Server-side Rendering",
       "Error Handling",
     ],
     description:
@@ -20,8 +22,6 @@ export const skills = [
       "MongoDB",
       "Mongoose",
       "MySQL",
-      "PostgreSQL",
-      "Prisma ORM",
       "Schema Design",
       "CRUD Operations",
       "Database Relations",
@@ -77,8 +77,13 @@ export const skills = [
     title: "📚 Current Learning",
     dark: true,
     items: [
-      "Solvinng DSA Problems in Python",
-      "Solving PYQs and Building a Notebook full of NIOS exam patterns",
+      "Data Structures & Algorithms",
+      "React Architecture",
+      "System Design Fundamentals",
+      "Mathematics",
+      "Physics",
+      "German",
+      "Polish",
     ],
     description:
       "Long-term focus on becoming a strong software engineer with solid academic and technical fundamentals.",
