@@ -4,8 +4,7 @@ export const aboutCards = [
     dark: false,
 
     content: `
-Completed the Entire NIOS (PCM, English, CS), And Solving PYQs daily. One PYQ pattern at a time
-
+Completed the Entire NIOS (PCM, English, CS), And Solving PYQs daily. One PYQ pattern at a time.
 
 Targeting strong board scores while simultaneously building practical engineering skills.
 
