@@ -67,7 +67,7 @@ export default function Footer() {
               <h4>Connect</h4>
 
               <a
-                href="https://github.com/Manpreet109209"
+                href="https://github.com/Manpreet109209000"
                 target="_blank"
               >
                 GitHub
@@ -92,8 +92,8 @@ export default function Footer() {
         {/* BOTTOM */}
         <div className="footer-bottom">
           <p>
-            © {new Date().getFullYear()} Manpreet Singh. Built with React,
-            Node.js, caffeine, and long-term survival instincts.
+            © {new Date().getFullYear()} Manpreet Singh. Built with React/Typescript,
+            Node.js, Cold Milk, and long-term survival instincts.
           </p>
 
           <span>
