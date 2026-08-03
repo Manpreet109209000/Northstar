@@ -15,7 +15,7 @@ export default function Hero() {
           <HeroBadge />
 
           <h1 className="hero-title">
-            Building
+            An Old-School Jatt Building
             <span> production-focused </span>
             software systems from a small room in Punjab.
           </h1>
