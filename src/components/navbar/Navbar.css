@@ -95,6 +95,10 @@
   color: #58cc02;
 }
 
+.navbar-links a:active {
+  color: #58cc02;
+}
+
 /* RIGHT */
 
 .navbar-actions {
