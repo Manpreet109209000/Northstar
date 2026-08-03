@@ -33,7 +33,7 @@ export default function Navbar() {
           <Link to="/visual-work">Visual Work</Link>
 
           <a
-            href="https://github.com/Manpreet109209"
+            href="https://github.com/Manpreet109209000"
             target="_blank"
             rel="noopener noreferrer"
           >
