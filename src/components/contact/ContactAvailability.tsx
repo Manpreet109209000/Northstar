@@ -28,8 +28,6 @@ export default function ContactAvailability() {
             <br />
             • Europe study planning
             <br />
-            • Volunteering For Organizations and Helping people with the skills i have
-            <br />
             • Long-term software engineering growth
             <br />
             <br />

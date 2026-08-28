@@ -3,11 +3,11 @@ export default function SkillsHero() {
     <section className="skills-hero">
       <div className="skills-container">
         <div className="skills-badge">
-          Engineering + Creative Systems
+          🧠 Engineering + Creative Systems
         </div>
 
         <h1>
-          Building technical depth one system at a time.
+          🍩 Building <span style={{ color: '#ea81ff' }}>tech</span>nical depth one system at a time.
         </h1>
 
         <p className="skills-description">

@@ -4,7 +4,7 @@ export default function ProjectsHeader() {
       <p className="projects-label">Projects</p>
 
       <h2>
-        Production-focused systems built while most students
+        🗂️ Production-<span style={{ color: '#ea81ff' }}>focused</span> systems built while most students
         were memorizing theory.
       </h2>
 

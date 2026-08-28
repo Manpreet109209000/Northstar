@@ -30,6 +30,9 @@ Main technologies:
 • Node.js
 • Express
 • React
+• PostgreSQL
+• TypeScript
+• System Design Fundamentals
 • MongoDB
 • MySQL
 • Electron
@@ -67,7 +70,6 @@ Build a strong engineering career abroad while creating a stable life for myself
 Current direction:
 
 🇵🇱 Poland → practical path
-🇩🇪 Germany → long-term possibility
 
 Until then:
 

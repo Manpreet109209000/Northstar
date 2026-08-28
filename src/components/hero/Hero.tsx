@@ -15,9 +15,10 @@ export default function Hero() {
           <HeroBadge />
 
           <h1 className="hero-title">
-            An Old-School Jatt Building
-            <span> production-focused </span>
-            software systems from a small room in Punjab.
+            🌸An <span style={{ color: '#ea81ff' }}>UNSHAKE-
+              ABLE</span> Kid from a small room in Punjab Building
+            <span> production-foc<span style={{ color: '#ea81ff' }} >us</span>ed </span>
+            software systems.
           </h1>
 
           <p className="hero-description">

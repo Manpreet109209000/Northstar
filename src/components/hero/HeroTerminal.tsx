@@ -4,10 +4,8 @@ const terminalLines = [
   "WanderStay deployed ✔",
   "User Management System deployed ✔",
   "LazyTunes desktop app built ✔",
-  "studying mathematics...",
-  "studying physics...",
-  "learning React architecture...",
-  "learning backend systems...",
+  "Completed the entire syllabus of NIOS 12th Grade in 2 months ✔",
+  "NIOS board exams preparation in progress...",
   "target: Computer Science abroad",
 ];
 

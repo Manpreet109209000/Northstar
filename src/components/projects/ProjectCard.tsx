@@ -43,7 +43,7 @@ export default function ProjectCard({
             href={project.link}
             variant="primary"
             >
-            Live Demo
+            🕊️  Live Demo
             </Button>
         )}
 
@@ -51,7 +51,7 @@ export default function ProjectCard({
             href={project.github}
             variant="secondary"
         >
-            GitHub
+        🌱  GitHub
         </Button>
         </div>
     </article>

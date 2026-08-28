@@ -35,11 +35,19 @@ export default function Footer() {
 
               <a href="/">Home</a>
               <a href="/about">About</a>
-              <a href="/work">Visual Work</a>
+              <a href="/skills">Skills</a>
+              <a href="/visual-work">Visual Work</a>
             </div>
 
             <div className="footer-column">
               <h4>Projects</h4>
+
+              <a
+                href="https://github.com/Manpreet109209000/ngo-volunteer-system"
+                target="_blank"
+              >
+                NGO Volunteer Management System
+              </a>
 
               <a
                 href="https://wanderstay-az1i.onrender.com/"
@@ -49,18 +57,14 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://user-management-system-l8xd.onrender.com/"
-                target="_blank"
-              >
-                User System
-              </a>
-
-              <a
                 href="https://github.com/Manpreet109209/LazyTunes"
                 target="_blank"
               >
                 LazyTunes
               </a>
+
+              <a href="/projects">See All Projects</a>
+
             </div>
 
             <div className="footer-column">
@@ -81,9 +85,10 @@ export default function Footer() {
               </a>
 
               <a
-                href="mailto:manpreet.singh.1092090@gmail.com"
+                href="https://drive.google.com/file/d/1swaMr2fYQFLXktx14HOHwxkCsQjxFFsW/view?usp=sharing"
+                target="_blank"
               >
-                Email
+                Resume
               </a>
             </div>
           </div>

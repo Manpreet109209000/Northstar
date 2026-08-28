@@ -40,7 +40,8 @@ export default function ContactCard({
             >
               {title === "Email"
                 ? "Send Email"
-                : "Open Profile"}
+                : "Open"}
+
             </Button>
           </div>
         )}

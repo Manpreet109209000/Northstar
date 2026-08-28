@@ -1,14 +1,16 @@
 import { Routes, Route } from "react-router-dom";
+
 import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 
 import Home from "./pages/Home";
-import VisualWork from "./pages/VisualWork";
 import About from "./pages/About";
 import Skills from "./pages/Skills";
-import Experience from "./pages/Experience";
-import Contact from "./pages/Contact";
 import ProjectsPreview from "./pages/ProjectsPreview";
+import Experience from "./pages/Experience";
+import VisualWork from "./pages/VisualWork";
+import Contact from "./pages/Contact";
+
 
 export default function App() {
   return (

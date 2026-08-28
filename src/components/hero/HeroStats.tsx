@@ -1,6 +1,6 @@
 const stats = [
   {
-    value: "3+",
+    value: "5+",
     label: "Production Projects",
   },
   {
@@ -8,7 +8,7 @@ const stats = [
     label: "Full-Stack Focus",
   },
   {
-    value: "2027",
+    value: "2023/2028",
     label: "CS Abroad Goal",
   },
 ];
