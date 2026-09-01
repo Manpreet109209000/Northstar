@@ -75,10 +75,6 @@
   transition: all 0.2s ease;
 }
 
-.experience-card:hover {
-  transform: translateY(-6px);
-}
-
 .experience-top {
   display: flex;
   justify-content: space-between;

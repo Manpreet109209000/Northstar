@@ -34,15 +34,25 @@ export default function Hero() {
           </p>
 
           <div className="hero-buttons" >
-            <Button href="/projects">View Projects</Button>
+            <Button 
+            href="/projects"
+            variant="primary"
+            >🗂️ View Projects
+            </Button>
 
-            <a
-              href="https://github.com/Manpreet109209000"
-              target="_blank"
-              className="github-button"
-            >
-              GitHub
-            </a>
+            <Button 
+            href="https://github.com/Manpreet109209000"
+            target="_blank"
+            variant="secondary"
+            >🌱 GitHub
+            </Button>
+
+            <Button 
+            href="https://drive.google.com/file/d/1swaMr2fYQFLXktx14HOHwxkCsQjxFFsW/view?usp=sharing"
+            variant="secondary"
+            target="_blank"
+            >📜 CV/Resume
+            </Button>
           </div>
 
           <HeroStats />

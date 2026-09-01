@@ -11,6 +11,8 @@ import Experience from "./pages/Experience";
 import VisualWork from "./pages/VisualWork";
 import Contact from "./pages/Contact";
 
+import NotFound from "./pages/NotFound";
+
 
 export default function App() {
   return (
@@ -25,6 +27,8 @@ export default function App() {
         <Route path="/experience" element={<Experience />} />
         <Route path="/visual-work" element={<VisualWork />} />
         <Route path="/contact" element={<Contact />} />
+        
+        <Route path="*" element={<NotFound />} />
       </Routes>
 
       <Footer />

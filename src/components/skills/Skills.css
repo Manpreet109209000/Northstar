@@ -75,7 +75,7 @@
 }
 
 .skill-card:hover {
-  transform: translateY(-6px);
+  border-color: #dcdcdc;
 }
 
 .skill-card h2 {

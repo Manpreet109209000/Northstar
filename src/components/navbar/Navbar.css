@@ -42,11 +42,11 @@
 }
 
 .logo-circle {
-  width: 48px;
-  height: 48px;
+  width: 52px;
+  height: 52px;
 
   border-radius: 18px;
-  background: #cc027f;
+  background: var(--primary);
 
   display: flex;
   align-items: center;
@@ -56,10 +56,12 @@
   font-size: 20px;
   font-weight: 900;
 
+  border: 2px solid #9e0061;
   box-shadow:
-    0 5px 0 #aa0364,
+    0 5px 0 var(--primary-box-shadow),
     0 10px 24px rgba(88, 204, 2, 0.18);
 }
+
 
 .logo-text h2 {
   font-size: 18px;
@@ -106,7 +108,7 @@
 }
 
 .navbar-links a:hover {
-  color: #58cc02;
+  color: #cc027f;
 }
 
 /* CONTACT */

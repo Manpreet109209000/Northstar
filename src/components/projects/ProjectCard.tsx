@@ -42,6 +42,7 @@ export default function ProjectCard({
             <Button
             href={project.link}
             variant="primary"
+            target="_blank"
             >
             🕊️  Live Demo
             </Button>
@@ -50,6 +51,7 @@ export default function ProjectCard({
         <Button
             href={project.github}
             variant="secondary"
+            target="_blank"
         >
         🌱  GitHub
         </Button>
