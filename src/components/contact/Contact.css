@@ -73,12 +73,8 @@
   transition: all 0.2s ease;
 }
 
-.contact-card:hover {
-  transform: translateY(-6px);
-}
-
 .contact-card-label {
-  color: #58cc02;
+  color: var(--primary);
   font-size: 14px;
   font-weight: 800;
   text-transform: uppercase;
@@ -132,7 +128,7 @@
 }
 
 .availability-label {
-  color: #58cc02;
+  color: var(--primary);
   font-size: 14px;
   font-weight: 800;
   text-transform: uppercase;
