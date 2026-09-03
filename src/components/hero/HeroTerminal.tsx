@@ -5,7 +5,7 @@ const terminalLines = [
   "User Management System deployed ✔",
   "LazyTunes desktop app built ✔",
   "Completed the entire syllabus of NIOS 12th Grade in 2 months ✔",
-  "NIOS board exams preparation in progress...",
+  "NIOS board exams preparation in progress through pyqs...",
   "target: Computer Science abroad",
 ];
 
@@ -25,7 +25,7 @@ export default function HeroTerminal() {
           <p className="terminal-focus-text">
             Building stronger engineering fundamentals while preparing
             for NIOS board exams and long-term software engineering
-            career goals.
+            career abroad.
           </p>
         </div>
       </div>
