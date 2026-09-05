@@ -121,9 +121,7 @@
 }
 
 .footer-bottom span::first-letter {
-  color: #ffffff;
-  font-size: 2em; /* Makes the first letter twice as big */
-  font-weight: 700;
+  font-size: 4em; /* Makes the first letter twice as big */
 }
 
 .footer-bottom span {
