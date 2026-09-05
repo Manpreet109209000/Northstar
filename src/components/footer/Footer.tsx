@@ -101,7 +101,7 @@ export default function Footer() {
           </p>
 
           <span>
-            🌾Punjab, India
+            🌾 Punjab, India
           </span>
         </div>
       </div>
