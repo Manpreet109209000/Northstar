@@ -21,7 +21,6 @@ export default function Footer() {
 
               <p>
                 Self-directed student and software engineer
-                building production-focused systems from Punjab,
                 India.
               </p>
             </div>
@@ -88,7 +87,7 @@ export default function Footer() {
                 href="https://drive.google.com/file/d/1swaMr2fYQFLXktx14HOHwxkCsQjxFFsW/view?usp=sharing"
                 target="_blank"
               >
-                Resume
+                CV/Resume
               </a>
             </div>
           </div>
@@ -98,11 +97,11 @@ export default function Footer() {
         <div className="footer-bottom">
           <p>
             © {new Date().getFullYear()} Manpreet Singh. Built with React/Typescript,
-            Node.js, Cold Milk, and long-term survival instincts.
+            Node.js, Cold and Hot Milk, and long-term survival instincts.
           </p>
 
           <span>
-            Punjab, India 🇮🇳
+            🌾 Punjab, India
           </span>
         </div>
       </div>
