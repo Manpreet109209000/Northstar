@@ -21,7 +21,7 @@ export default function Footer() {
 
               <p>
                 Self-directed student and software engineer
-                India.
+                🌾 Punjab, India
               </p>
             </div>
           </div>
