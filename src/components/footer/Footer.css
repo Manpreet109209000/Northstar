@@ -120,6 +120,12 @@
   line-height: 1.7;
 }
 
+.footer-bottom span::first-letter {
+  color: #ffffff;
+  font-size: 2em; /* Makes the first letter twice as big */
+  font-weight: 700;
+}
+
 .footer-bottom span {
   color: #ffffff;
   font-weight: 700;
