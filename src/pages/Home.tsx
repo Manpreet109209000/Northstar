@@ -3,7 +3,7 @@ import Hero from "../components/hero/Hero";
 import About from "./About";
 import Skills from "./Skills";
 
-import ProjectsPreview from "../pages/ProjectsPreview";
+import ProjectsPreview from "./Projects";
 
 import Experience from "./Experience";
 

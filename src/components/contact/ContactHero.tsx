@@ -4,13 +4,13 @@ export default function ContactHero() {
       <div className="contact-container">
         {/* badge */}
         <div className="contact-badge">
-          Open to Opportunities
+          📬 Open to Opportunities
         </div>
 
         {/* heading */}
         <h1>
-          Building systems,
-          learning deeply,
+          📬 Building systems,
+          learn<span style={{ color: '#ea81ff' }}>in</span>g deeply,
           and slowly engineering a better future.
         </h1>
 

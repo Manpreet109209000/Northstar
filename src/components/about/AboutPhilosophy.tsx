@@ -22,6 +22,30 @@ export default function AboutPhilosophy() {
             and a life built carefully over time.
             <br />
             <br />
+            However, if study loan doesn't work out:
+            <br />
+            <br />
+            Online BScCS → MScCS abroad → backup practical path C.
+            <br />
+            <br />
+            Or:
+            <br />
+            <br />
+            traditional B.Tech CSE & Zomato part-time work to fund it → MScCS abroad → backup practical path B.
+            <br />
+            <br />
+            Plan C gives me the greatest 
+            opportunity to accumulate substantial 
+            professional experience during my bachelor's 
+            if I can secure a suitable full-time role.
+            <br />
+            <br />
+            They're simply two different roads toward the same larger destination:
+            <br />
+            <br />
+            BSc → strong software engineering career → master's abroad → UAE / international career opportunities
+            <br />
+            <br />
             Quiet work. Long-term thinking.
             Systems that actually function.
             Rare technology industry behavior these days.

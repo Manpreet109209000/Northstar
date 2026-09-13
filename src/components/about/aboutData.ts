@@ -46,7 +46,7 @@ I care more about scalable structure and problem-solving than chasing random Jav
     dark: false,
 
     content: `
-Alongside development, I’ve also worked (volunteering) on short-form video editing for TikTok, Instagram, and YouTube creators For over 2+ years.
+Alongside development, I’ve also worked (volunteered) on short-form video editing for TikTok, Instagram, and YouTube creators For over 2 years.
 
 That experience taught me:
 
@@ -67,9 +67,13 @@ people immediately notice bad structure.
     content: `
 Build a strong engineering career abroad while creating a stable life for myself and my family.
 
-Current direction:
+Current directions:
 
-🇵🇱 Poland → practical path
+Poland → practical path A
+
+Online BScCS → MScCS abroad → backup practical path C
+
+Traditional b.tech cse → MScCS abroad → backup practical path B
 
 Until then:
 

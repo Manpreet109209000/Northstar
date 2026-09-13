@@ -45,7 +45,7 @@ export default function Footer() {
                 href="https://github.com/Manpreet109209000/ngo-volunteer-system"
                 target="_blank"
               >
-                NGO Volunteer Management System
+                NGO Management System
               </a>
 
               <a

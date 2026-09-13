@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "DreamyPortfolio",
     subtitle: "🌸 Desktop-inspired interactive portfolio.",
-    tech: ["PostgreSQL", "Prisma ORM", "Tailwind CSS", "TypeScript", "React", "Express","Node.js", "Git & GitHub", "REST APIs", "JSON Web Token (JWT)", "bcrypt", "Zod", "React Hook Form", "React Router", "Vite", ],
+    tech: ["React", "JavaScript (ES6+)", "CSS Modules, Flexbox, Responsive Design", " GSAP, Lottie", "Vite."],
     desc: "A soft, OS-inspired personal portfolio built with React, featuring animated desktop icons, window-based navigation, and a calm, aesthetic user experience.",
     link: "https://dreamyportfolio.netlify.app/",
     github: "https://github.com/Manpreet109209000/DreamyPortfolio",

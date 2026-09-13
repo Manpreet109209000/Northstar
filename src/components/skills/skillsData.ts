@@ -80,11 +80,11 @@ export const skills = [
   },
 
   {
-    title: "📚 Current Learning",
+    title: "📚 What Manpreet's currently doing?",
     dark: true,
     items: [
       "Data Structures & Algorithms",
-      "React Architecture",
+      "Interviews Preparation (Mock tests)",
       "System Design Fundamentals",
       "Solving NIOS PYQs (PCM English + CS)",
     ],

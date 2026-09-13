@@ -75,6 +75,10 @@
   transition: all 0.2s ease;
 }
 
+.experience-card:hover {
+  border-color: #dcdcdc;
+}
+
 .experience-top {
   display: flex;
   justify-content: space-between;
@@ -89,7 +93,7 @@
 }
 
 .experience-top span {
-  color: #58cc02;
+  color: #cc027f;
   font-weight: 700;
 }
 

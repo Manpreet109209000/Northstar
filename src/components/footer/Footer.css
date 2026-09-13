@@ -92,14 +92,14 @@
 .footer-column a {
   text-decoration: none;
 
-  color: #ffffff;
+  color: #444;
   font-weight: 600;
 
   transition: 0.18s ease;
 }
 
 .footer-column a:hover {
-  color: #cc027f;
+  color: #ffffff;
 }
 
 /* BOTTOM */

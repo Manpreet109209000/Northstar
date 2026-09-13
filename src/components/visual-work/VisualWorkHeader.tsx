@@ -6,7 +6,7 @@ export default function VisualWorkHeader() {
       </p>
 
       <h2>
-        Editing with cinematic
+        🎬 Editing with cinematic
         <br />
         <span style={{ color: '#ea81ff' }}>story</span>telling principles.
       </h2>
