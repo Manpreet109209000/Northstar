@@ -84,7 +84,7 @@ export const skills = [
     dark: true,
     items: [
       "Data Structures & Algorithms",
-      "Interviews Preparation (Mock tests)",
+      "Core technical Interviews Preparation (Mock tests)",
       "System Design Fundamentals",
       "Solving NIOS PYQs (PCM English + CS)",
     ],
