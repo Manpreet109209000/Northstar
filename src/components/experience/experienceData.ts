@@ -16,7 +16,7 @@ export const experiences = [
   },
 
   {
-    title: "📚 Self-Directed Academic Learning",
+    title: "📚 Self-Directed Academic Journey",
     period: "2025 - Present",
     dark: true,
 
