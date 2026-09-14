@@ -26,6 +26,7 @@ export const experiences = [
     points: [
       "Preparing for NIOS board exams through PYQs",
       "Studying strong software engineer concepts deeply",
+      "Interviews Preparation (Mock tests)",
       "Balancing academics with engineering projects",
     ],
   },
