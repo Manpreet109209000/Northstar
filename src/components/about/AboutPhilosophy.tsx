@@ -9,7 +9,7 @@ export default function AboutPhilosophy() {
 
           <h2>
             Build real things. Learn deeply.
-            Stay difficult to replace. And Drink a lot of Milk without Sugar😼.
+            Stay difficult to replace. And Drink a lot of <span style={{ color: '#ea81ff' }}>Mi</span>lk without Sugar.😼
           </h2>
 
           <p className="philosophy-description">
