@@ -47,17 +47,17 @@ export default function NotFound() {
 
             <div className="not-found-terminal-focus">
               <div className="not-found-terminal-focus-title">
-                SYSTEM STATUS
+                😾: SYSTEM STATUS
               </div>
 
               <div className="not-found-terminal-focus-text">
-                STATUS: <span>404</span>
+                STATUS 📜: <span>404</span>
                 <br />
-                ROUTE: UNKNOWN
+                ROUTE 🧬: UNKNOWN
                 <br />
-                NORTHSTAR: ONLINE
+                NORTHSTAR 💮: ONLINE
                 <br />
-                COFFEE: PROBABLY REQUIRED
+                22 CUPS OF MILK 🍼: PROBABLY REQUIRED 4 MANPREET 😽🍼
               </div>
             </div>
           </div>
