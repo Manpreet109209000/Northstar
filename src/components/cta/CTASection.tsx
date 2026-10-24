@@ -7,13 +7,13 @@ export default function CTASection() {
     <section className="cta-section">
       <div className="cta-container">
         <h2>
-          Let’s build something meaningful.
+          🙋💮Let’s build something meaningful.💐🌷
         </h2>
 
         <p>
           Interested in collaboration, engineering,
           backend systems, or creative work?
-          Let’s connect.
+          Let’s connect.🌸
         </p>
 
         <div className="cta-button-wrapper">
@@ -21,7 +21,7 @@ export default function CTASection() {
             href="/contact"
             variant="primary"
           >
-            Contact Me
+            💐 Contact Me
           </Button>
         </div>
       </div>
