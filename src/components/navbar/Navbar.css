@@ -10,7 +10,7 @@
   z-index: 1000;
   width: 100%;
 
-  background: rgba(255, 255, 255, 0.88);
+  background: #a13dba;
   backdrop-filter: blur(18px);
 
   border-radius: 0 0 40px 40px;
