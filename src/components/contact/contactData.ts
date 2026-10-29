@@ -20,7 +20,7 @@ export const contactCards = [
     value: "📜 CV/Resume",
     description:
       "My professional resume detailing Skills, Projects, and qualifications.",
-    link: "https://drive.google.com/file/d/1swaMr2fYQFLXktx14HOHwxkCsQjxFFsW/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1kGesiof717kZugOyb9nOhODXVKC1DgzB/view?usp=sharing",
   },
 
   {
