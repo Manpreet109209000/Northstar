@@ -47,7 +47,7 @@ export default function Hero() {
             </Button>
 
             <Button 
-            href="https://drive.google.com/file/d/1swaMr2fYQFLXktx14HOHwxkCsQjxFFsW/view?usp=sharing"
+            href="https://drive.google.com/file/d/1kGesiof717kZugOyb9nOhODXVKC1DgzB/view?usp=sharing"
             variant="secondary"
             target="_blank"
             >📜 CV/Resume
